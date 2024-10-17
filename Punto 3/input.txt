@@ -1,0 +1,9 @@
+fourier_transform([1, 2, 3 * 2, 4 + pi])
+inverse_fourier_transform([1, euler, 3, 4])
+get_transform_pair(1)
+
+fourier_transform([1, 2, sin(pi / 2), cos(0)])
+inverse_fourier_transform([1, euler, sin(pi), 4])
+get_transform_pair(1)
+
+

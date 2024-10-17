@@ -1,0 +1,39 @@
+### Casos de prueba
+
+1. **Suma simple**:
+   - **Entrada**: `(2 + 3i) + (1 - 2i)`
+   - **Salida esperada**: `(3 + 1i)`
+
+2. **Resta simple**:
+   - **Entrada**: `(4 + 5i) - (1 + 1i)`
+   - **Salida esperada**: `(3 + 4i)`
+
+3. **Suma y resta combinadas**:
+   - **Entrada**: `(2 + 3i) + (4 - 1i) - (3 + 2i)`
+   - **Salida esperada**: `(3 + 0i)`
+
+5. **Suma de números complejos con parte real cero**:
+   - **Entrada**: `(0 + 3i) + (0 - 2i)`
+   - **Salida esperada**: `(0 + 1i)`
+
+6. **Resta de números complejos con parte imaginaria cero**:
+   - **Entrada**: `(3 + 0i) - (1 + 0i)`
+   - **Salida esperada**: `(2 + 0i)`
+
+7. **Expresión con solo parte imaginaria**:
+   - **Entrada**: `(3i) - (2i)`
+   - **Salida esperada**: `(1i)`
+
+8. **Paréntesis con operaciones**:
+   - **Entrada**: `((1 + 2i) + (3 - 4i)) - (1 + 1i)`
+   - **Salida esperada**: `(3 - 3i)`
+
+9. **Operación con decimales**:
+   - **Entrada**: `(1.5 + 2.5i) + (3.2 - 1.2i)`
+   - **Salida esperada**: `(4.7 + 1.3i)`
+
+10. **Número complejo puro**:
+    - **Entrada**: `0 + 5i`
+    - **Salida esperada**: `(0 + 5i)`
+
+

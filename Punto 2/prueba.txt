@@ -1,0 +1,20 @@
+MAP(multiply, [5, 10, 15]);
+FILTER(is_even, [10, 11, 12, 13, 14, 15]);
+
+MAP(multiply, (1, 2, 3, 4, 5));
+FILTER(is_even, (6, 7, 8, 9, 10));
+
+MAP(multiply, []);
+FILTER(is_even, []);
+
+MAP(multiply, [0, -1, -2, -3]);
+FILTER(is_even, [-2, -1, 0, 1, 2, 3]);
+
+MAP(multiply, (100, 200, 300, 400));
+FILTER(is_even, (101, 202, 303, 404));
+
+MAP(multiply, [1]);
+FILTER(is_even, [2]);
+
+MAP(multiply, (0, 0, 0, 0));
+FILTER(is_even, [0, 0, 1, 1, 2, 2]);
