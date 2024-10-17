@@ -1,13 +1,10 @@
-### `README.md`
+# Lenguajes de Programación y Transducción
+## Parcial Segundo Corte
+### Juan Camilo
 
-``
-#Lenguajes de Programación y Transducción
-#Parcial Segundo Corte
-#Juan Camilo Gallardo Sánchez
+---
 
-
-#Punto 1
-
+# Punto 1
 
 # Lenguaje para Operaciones con Números Complejos
 
