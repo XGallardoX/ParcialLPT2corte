@@ -1,6 +1,6 @@
 # Lenguajes de Programación y Transducción
-## Parcial Segundo Corte
-### Juan Camilo Gallardo Sánchez
+## Juan Camilo Gallardo Sánchez
+### Parcial Segundo Corte
 
 
 # Punto 1
