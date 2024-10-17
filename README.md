@@ -1,11 +1,11 @@
-#Lenguajes de Programación y Trnasducción
+
+``
+#Lenguajes de Programación y Transducción
 #Parcial Segundo Corte
 #Juan Camilo Gallardo Sánchez
 
 
 #Punto 1
-
-Aquí te proporciono un archivo `README.md` que puedes utilizar para documentar cómo ejecutar tu proyecto que realiza operaciones con números complejos usando ANTLR y Python.
 
 ### `README.md`
 
