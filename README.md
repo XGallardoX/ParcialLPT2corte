@@ -1,3 +1,4 @@
+### `README.md`
 
 ``
 #Lenguajes de Programación y Transducción
@@ -7,9 +8,7 @@
 
 #Punto 1
 
-### `README.md`
 
-``
 # Lenguaje para Operaciones con Números Complejos
 
 Este proyecto implementa un lenguaje que permite realizar operaciones con números complejos, como suma y resta, utilizando ANTLR para generar el parser y Python como lenguaje de destino.
